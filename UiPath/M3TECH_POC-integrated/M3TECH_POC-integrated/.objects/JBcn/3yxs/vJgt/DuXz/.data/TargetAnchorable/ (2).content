@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://devboss5.mortgageboss.ca/#/main/deal/new_deal_detail?id=4903950" ContentHash="IhL7jvVgiEW7lnJX8-F2dw" DesignTimeRectangle="739, 475, 398, 31" FriendlyName="'2005 Sheppard'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div' parentid='body' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='body' tag='DIV' aaname='' check:text='2005 Sheppard Avenue EastNorth York, ON, Canada' /&gt;" Guid="0cfe0b2c-6deb-42c4-85d0-2928cd7074eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Boss' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="624, 444, 514, 35" ElementType="InputBox" FriendlyName="'Address Lookup:2005 sh'" FullSelectorArgument="&lt;webctrl id='googlePlaces-address[0].mainApplicant[0].addressLookup' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='googlePlaces-address[0].mainApplicant[0].addressLookup' tag='SPAN' type='' aaname='' /&gt;" SearchSteps="Selector">
+        <imageRef attrName="ImageBase64" xmlns="">1LeZmmTsd1027lPJQzQ2FyA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0socHIcSYak67MV1cil1xuQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0be357cca9b1b455d97a7fa12132533d.png" xmlns="">0ZNykYSnsykC1BAUCE4v4Qg</imageRef>
+</TargetAnchorable>
