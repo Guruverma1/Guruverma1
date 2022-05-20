@@ -1,0 +1,74 @@
+{
+  "name": "AdactinTesting",
+  "description": "This is to test the Adacitin hotel booking website",
+  "main": "MainWorkflow.xaml",
+  "dependencies": {
+    "MainLibrary": "[3.0.0]",
+    "ReporterForUiPath.Activities": "[2.0.0]",
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.1]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.Testing.Activities": "[22.4.2]",
+    "UiPath.UIAutomation.Activities": "[22.4.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.3.0",
+  "projectVersion": "1.0.5",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d6aa1e0c-0cbf-4c70-9694-13e59bcdfd3d",
+        "testCaseType": "TestCase",
+        "fileName": "MainAdactinTestCase.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "TestCase- 102.xaml",
+      "uniqueId": "4737a476-64ce-453a-9b70-54c3d18d2c9e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "MainWorkflow.xaml",
+      "uniqueId": "2b819eb8-10d1-4db6-b168-a95e85f7f2d3",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
