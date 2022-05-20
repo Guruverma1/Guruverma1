@@ -9,7 +9,7 @@
     "UiPath.Jira.IntegrationService.Activities": "[3.0.0]",
     "UiPath.JiraSoftware.Activities": "[1.0.3.22730]",
     "UiPath.System.Activities": "[22.4.1]",
-    "UiPath.Testing.Activities": "[1.4.6]",
+    "UiPath.Testing.Activities": "[22.4.2]",
     "UiPath.UIAutomation.Activities": "[22.4.4]",
     "UiPathTeam.DatatableConverter.Activities": "[1.0.1]",
     "UiPathTeam.JiraGet.Activities": "[1.0.0.116]"
